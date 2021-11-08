@@ -1,4 +1,4 @@
-
+## Fancy seeing you here! <img src="https://github.com/404S-retr0/404S-retr0/blob/main/wave.gif" width="30px">
 - 👋 Hi, I’m @404S-retr0
 - 👀 I’m interested in Applied Deep Learning | Machine learning |  Data Science | IOT |
 - 🌱 I’m currently learning ...

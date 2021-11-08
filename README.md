@@ -10,4 +10,4 @@ I am a tech enthusiast. I am always open to collaborating on projects and innova
  <a href= "mailto:anuragde415@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail-new.png"/></a>
 </p>
  </html>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=404S-retr0.404S-retr0)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=404S-retr0.404S-retr0)

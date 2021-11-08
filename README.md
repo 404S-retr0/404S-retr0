@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://github.com/404S-retr0/404S-retr0/blob/main/wave.gif" width="30px">
+## Fancy meeting you here! <img src="https://github.com/404S-retr0/404S-retr0/blob/main/wave.gif" width="30px">
 <p align="center">
   <img width="200" src="https://github.com/404S-retr0/404S-retr0/blob/main/MOSHED-2021-11-8-17-29-34.gif">
 </p>

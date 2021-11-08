@@ -1,4 +1,5 @@
 ## Fancy seeing you here! <img src="https://github.com/404S-retr0/404S-retr0/blob/main/wave.gif" width="30px">
+<html>
 <p align="center">
   <img width="200" src="https://github.com/404S-retr0/404S-retr0/blob/main/MOSHED-2021-11-8-17-29-34.gif">
 </p>
@@ -8,5 +9,6 @@ I am a tech enthusiast. I am always open to collaborating on projects and innova
 <a href= "https://www.linkedin.com/in/anurag-de-404s-retr0/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
  <a href= "mailto:anuragde415@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail-new.png"/></a>
 </p>
+ </html>
 ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=404S-retr0.404S-retr0)

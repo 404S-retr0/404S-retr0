@@ -10,7 +10,7 @@ I am a tech enthusiast. I am always open to collaborating on projects and innova
 </p>
  
  ## ⚡ Technologies
- <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/><img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/><img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"/>
+ <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/> <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"/>
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
  
 <img src="https://visitor-badge.laobi.icu/badge?page_id=404S-retr0.404S-retr0" alt="visitor badge"/>

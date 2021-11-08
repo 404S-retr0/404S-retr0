@@ -6,4 +6,5 @@ I am Anurag De, refer to me as "retr0_404S", currently pursuing my bachelor's de
 I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <p align="center">
 <a href= "https://www.linkedin.com/in/anurag-de-404s-retr0/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+  <a href= "link=mailto:anuragde415@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail-new.png"/></a>
 </p>

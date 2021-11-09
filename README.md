@@ -2,7 +2,7 @@
   <img width="300" src="https://github.com/404S-retr0/404S-retr0/blob/main/MOSHED-2021-11-8-17-29-34.gif">
 </p>
 
-## Fancy meeting you here! <img src="https://github.com/404S-retr0/404S-retr0/blob/main/wave.gif" width="30px">
+<h1>Fancy meeting you here!<img src="https://github.com/404S-retr0/404S-retr0/blob/main/wave.gif" width="30px"></h1> 
 I am Anurag De, or refer as "retr0_404S", currently pursuing my bachelor's degree majoring in computer science and engineering from <a href="https://reva.edu.in/">REVA University</a>.
 I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 <p align="center">
@@ -24,3 +24,6 @@ I am a tech enthusiast. I am always open to collaborating on projects and innova
  
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=404S-retr0.404S-retr0" alt="visitor badge"/> 
+
+
+<h1 align='center'><i>Stay awesome!</i></h1>
